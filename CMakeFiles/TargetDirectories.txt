@@ -1,0 +1,3 @@
+/Users/leomaisnam/PersonalProjects/Testing/square_jump/CMakeFiles/square_jump.dir
+/Users/leomaisnam/PersonalProjects/Testing/square_jump/CMakeFiles/edit_cache.dir
+/Users/leomaisnam/PersonalProjects/Testing/square_jump/CMakeFiles/rebuild_cache.dir
